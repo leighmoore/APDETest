@@ -11,6 +11,8 @@
 libname CHIS0514 "R:\Working Folder\CHIS data\CHIS2005-CHIS2014_SonomaCty_November2015";
 *libname CHIS0514 "R:\Transfer\ACH";
 
+THIS IS A TEST>>>>
+
 *************************
 	CREATING NEW VARIABLES;
 
